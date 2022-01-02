@@ -34,9 +34,9 @@
   <p align="center">
     Official GitHub Page Of Loxzer X
     <br>
-    <a href="https://github.com/LoxzerX/Addon-Template/issues">Bug Report</a>
+    <a href="https://github.com/LoxzerX/RealTime-Addon/issues">Bug Report</a>
     ·
-    <a href="https://github.com/LoxzerX/Addon-Template/pulls">Request Feature</a>
+    <a href="https://github.com/LoxzerX/RealTime-Addon/pulls">Request Feature</a>
   </p>
 </p>
 
@@ -96,8 +96,8 @@
 
 ## Bugs And Feature Requests
 
-> **[Bug Report](https://github.com/LoxzerX/Addon-Template/issues)** <br />
-> **[Request Feature](https://github.com/LoxzerX/Addon-Template/pulls)**
+> **[Bug Report](https://github.com/LoxzerX/RealTime-Addon/issues)** <br />
+> **[Request Feature](https://github.com/LoxzerX/RealTime-Addon/ulls)**
 
 ## Beli Icon Rank
 <p align="center">
@@ -111,6 +111,6 @@ _Harga 5K Dapet 4 Icon + Cara Pemasangan_<br />
 
 ## Copyright and license
 
-Must Read [MIT License](https://github.com/LoxzerX/Addon-Template/blob/data/LICENSE.md)
+Must Read [MIT License](https://github.com/LoxzerX/RealTime-Addon/blob/data/LICENSE.md)
 <p>Only Available On id_ID Language</p>
 
