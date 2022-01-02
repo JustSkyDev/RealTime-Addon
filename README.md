@@ -1,6 +1,30 @@
 <!--Semua Data Dibuat Oleh Ytb: Loxzer X-->
 
 <p align="center">
+  <h3 align="center"> Original Video
+    </h>
+    <div align="center">
+
+  <a href="https://youtu.be/"><img src="https://img.youtube.com/vi//0.jpg" alt="Original Video"></a>
+
+</div>
+    </p>
+    
+
+
+  
+ 
+<p align="center">
+  <h3 align="center">Experimental Gameplay
+    </h3>
+
+   
+<p align="center">
+<a>
+    <img src=".jpg">
+</a>
+
+<p align="center">
   <a href="http://www.youtube.com/c/LoxzerX">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7M1_b8XV_s6S4ejHA5RTnRI12Ul2qs05cuj4GFRFtcTs_fp4blsscKGT&s=10" alt="Loxzer X" class="GeneratedImage">
   </a>
