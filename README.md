@@ -11,18 +11,18 @@
     </p>
     
 <p align="center">
-  <a href="http://www.youtube.com/c/LoxzerX">
+  <a href="http://www.youtube.com/c/JustSkyDev">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7M1_b8XV_s6S4ejHA5RTnRI12Ul2qs05cuj4GFRFtcTs_fp4blsscKGT&s=10" alt="Loxzer X" class="GeneratedImage">
   </a>
 
-  <h3 align="center">Official Loxzer X</h3>
+  <h3 align="center">Official JustSky</h3>
 
   <p align="center">
     Official GitHub Page Of Loxzer X
     <br>
-    <a href="https://github.com/LoxzerX/RealTime-Addon/issues">Bug Report</a>
+    <a href="https://github.com/JustSkyDev/RealTime-Addon/issues">Bug Report</a>
     ·
-    <a href="https://github.com/LoxzerX/RealTime-Addon/pulls">Request Feature</a>
+    <a href="https://github.com/JustSkyDev/RealTime-Addon/pulls">Request Feature</a>
   </p>
 </p>
 
@@ -82,8 +82,8 @@
 
 ## Bugs And Feature Requests
 
-> **[Bug Report](https://github.com/LoxzerX/RealTime-Addon/issues)** <br />
-> **[Request Feature](https://github.com/LoxzerX/RealTime-Addon/ulls)**
+> **[Bug Report](https://github.com/JustSkyDev/RealTime-Addon/issues)** <br />
+> **[Request Feature](https://github.com/JustSkyDev/RealTime-Addon/ulls)**
 
 ## Beli Icon Rank
 <p align="center">
