@@ -18,7 +18,7 @@
   <h3 align="center">Official JustSky</h3>
 
   <p align="center">
-    Official GitHub Page Of Loxzer X
+    Official GitHub Page Of JustSky
     <br>
     <a href="https://github.com/JustSkyDev/RealTime-Addon/issues">Bug Report</a>
     ·
