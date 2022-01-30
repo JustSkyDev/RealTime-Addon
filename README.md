@@ -97,6 +97,6 @@ _Harga 5K Dapet 4 Icon + Cara Pemasangan_<br />
 
 ## Copyright and license
 
-Must Read [MIT License](https://github.com/LoxzerX/RealTime-Addon/blob/data/LICENSE.md)
+Must Read [MIT License](https://github.com/JustSkyDev/RealTime-Addon/blob/data/LICENSE.md)
 <p>Only Available On id_ID Language</p>
 
