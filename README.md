@@ -40,7 +40,7 @@
 
 ## Download
 
-> **[Download](https://apkadmin.com/bkyq85d95npv/RealTime_MCPE_1.18_.mcaddon.html)**
+> **[Download](https://apkadmin.com/to7pdnqdi5k2/RealTime_Addon_1.18.10_.mcaddon.html)**
 
 
 ## How To Install
