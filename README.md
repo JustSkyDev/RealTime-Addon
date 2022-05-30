@@ -2,14 +2,14 @@
 
 <p align="center">
   <h3 align="center"> Original Video
-    </h>
-    <div align="center">
+  </h>
+  <div align="center">
 
-  <a href="https://youtu.be/Y3Sbc9Qsfwc"><img src="https://img.youtube.com/vi/Y3Sbc9Qsfwc/0.jpg" alt="Original Video"></a>
+    <a href="https://youtu.be/Y3Sbc9Qsfwc"><img src="https://img.youtube.com/vi/Y3Sbc9Qsfwc/0.jpg" alt="Original Video"></a>
 
-</div>
-    </p>
-    
+  </div>
+</p>
+
 <p align="center">
   <a href="http://www.youtube.com/c/JustSkyDev">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7M1_b8XV_s6S4ejHA5RTnRI12Ul2qs05cuj4GFRFtcTs_fp4blsscKGT&s=10" alt="Loxzer X" class="GeneratedImage">
@@ -56,7 +56,7 @@
 6. Done
 ```
 
-<br/>
+<br />
 
 > ***Addon With .zip File Format [> 1.18]***
 ```text
@@ -88,9 +88,9 @@
 ## Beli Icon Rank
 <p align="center">
   <a href="https://wa.me/6281217435667?text=%23beli-icon-rank">
-      <img src="https://images.app.goo.gl/HSn9HHwNxTd62Tzr9">
-    </a>
-  </p>
+    <img src="https://images.app.goo.gl/HSn9HHwNxTd62Tzr9">
+  </a>
+</p>
 
 _Harga 5K Dapet 4 Icon + Cara Pemasangan_<br />
 **Minat : [Chat WA Ini](https://wa.me/6281217435667?text=%23beli-icon-rank)**
@@ -98,5 +98,6 @@ _Harga 5K Dapet 4 Icon + Cara Pemasangan_<br />
 ## Copyright and license
 
 Must Read [MIT License](https://github.com/JustSkyDev/RealTime-Addon/blob/data/LICENSE.md)
-<p>Only Available On id_ID Language</p>
-
+<p>
+  Only Available On id_ID Language
+</p>
